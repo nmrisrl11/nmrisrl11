@@ -4,11 +4,15 @@
 
 ###
 
-<h2 align="left">💻 I build modern, dynamic web applications that prioritize user experience, accessibility, and performance, helping businesses thrive in the digital world.</h2>
+<h3 align="left">👨🏻‍💻 Front-end Developer based in Manila, Philippines</h3>
 
 ###
 
-<h3 align="left">✨ Tech Stack and Skills ✨</h3>
+<h3 align="left">💻 I build modern, dynamic web applications that prioritize user experience, accessibility, and performance, helping businesses thrive in the digital world.</h3>
+
+###
+
+<h4 align="left">✨ Tech Stack and Skills ✨</h4>
 
 ###
 
