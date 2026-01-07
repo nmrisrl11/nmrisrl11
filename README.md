@@ -13,19 +13,11 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTAxdGhxMjFsNWx2eDVobXo2aTRtZXZjcXgxdjdzZDgyem9lNjlqdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/6aT5uzlqJCOsf0zuCn/giphy.gif"  />
-
-###
-
 <p align="left">✨ Creating and crafting UI designs and turning them into modern web applications since 2019.<br>📚 Continuously learning and staying active with the latest design and technology trends.<br>🎯 Goals: To be in a position where I don’t have to worry about prices before making a purchase.<br>🤩 Interests: Running, game development, and 2D character design.</p>
 
 ###
 
 <h2 align="left">Tech Stack & Skills</h2>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXQwNnllYWRjb21nMDExenR4YjFqNnBpYW51d2VwYWNuMmpydm9hYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/g08w977k6vsVRRC2OQ/giphy.gif"  />
 
 ###
 
@@ -114,10 +106,6 @@
 ###
 
 <h2 align="left">Let's Connect</h2>
-
-###
-
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWM5ZXNxbzJsb2JpbnA0bm91NGhwOHRvN2M1MTAzc3h2ZGYzNHo3cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/RCk0zMOIDc5xzgyX7c/giphy.gif"  />
 
 ###
 
