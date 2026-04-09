@@ -9,6 +9,7 @@
 <h3 align="left">💻 I design and build modern, dynamic web applications, focusing on user experience, accessibility, and performance to help businesses grow in the digital world.</h3>
 
 ###
+
 <h2 align="left">About Me</h2>
 
 ###
@@ -21,87 +22,66 @@
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="24" alt="nextjs logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="24" alt="react logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="24" alt="typescript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="24" alt="javascript logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge" height="24" alt="jquery logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/React-111212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/React_Native-111212?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Static Badge](https://img.shields.io/badge/Next.js-111212?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/TypeScript-111212?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![Static Badge](https://img.shields.io/badge/JavaScript-111212?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Static Badge](https://img.shields.io/badge/jQuery-111212?style=for-the-badge&logo=jquery&logoColor=0769AD)
+![Static Badge](https://img.shields.io/badge/Tailwind_CSS-111212?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="24" alt="html5 logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?logo=css&logoColor=white&style=for-the-badge" height="24" alt="css logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Sass-CC6699?logo=sass&logoColor=black&style=for-the-badge" height="24" alt="sass logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=black&style=for-the-badge" height="24" alt="tailwindcss logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/shadcn/ui-111212?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Mantine-111212?style=for-the-badge&logo=mantine&logoColor=339AF0)
+![Static Badge](https://img.shields.io/badge/Material_UI-111212?style=for-the-badge&logo=mui&logoColor=007FFF)
+![Static Badge](https://img.shields.io/badge/Flowbite_React-111212?style=for-the-badge&logo=flowbite&logoColor=3B82F6)
+![Static Badge](https://img.shields.io/badge/TanStack-111212?style=for-the-badge&logo=tanstack&logoColor=FF4154)
+![Static Badge](https://img.shields.io/badge/SWR-111212?style=for-the-badge&logo=swr&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Redux_Toolkit-111212?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Static Badge](https://img.shields.io/badge/Zustand-111212?style=for-the-badge&logo=zustand&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Zod-111212?style=for-the-badge&logo=zod&logoColor=3E67B1)
+![Static Badge](https://img.shields.io/badge/NextAuth.js-111212?style=for-the-badge&logo=nextauth&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/React_Hook_Form-111212?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=black&style=for-the-badge" height="24" alt="php logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=for-the-badge" height="24" alt="codeigniter logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="24" alt="mysql logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=for-the-badge" height="24" alt="postgresql logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?logo=appwrite&logoColor=white&style=for-the-badge" height="24" alt="appwrite logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/Node.js-111212?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Static Badge](https://img.shields.io/badge/Express.js-111212?style=for-the-badge&logo=express&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/PHP-111212?style=for-the-badge&logo=php&logoColor=777BB4)
+![Static Badge](https://img.shields.io/badge/CodeIgniter_3-111212?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
+![Static Badge](https://img.shields.io/badge/MySQL-111212?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Static Badge](https://img.shields.io/badge/SQL-111212?style=for-the-badge&logo=databricks&logoColor=FF3621)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-111212?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Static Badge](https://img.shields.io/badge/Prisma-111212?style=for-the-badge&logo=prisma&logoColor=2D3748)
+![Static Badge](https://img.shields.io/badge/Appwrite-111212?style=for-the-badge&logo=appwrite&logoColor=FD366E)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="24" alt="git logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="24" alt="github logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Handlebars.js-000000?logo=handlebarsdotjs&logoColor=white&style=for-the-badge" height="24" alt="handlebars logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=white&style=for-the-badge" height="24" alt="npm logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?logo=visualstudiocode&logoColor=white&style=for-the-badge" height="24" alt="vscode logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/Git-111212?style=for-the-badge&logo=git&logoColor=F05032)
+![Static Badge](https://img.shields.io/badge/GitHub-111212?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/GitHub_Actions-111212?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Static Badge](https://img.shields.io/badge/CI/CD-111212?style=for-the-badge&logo=githubactions&logoColor=2088FF)
+![Static Badge](https://img.shields.io/badge/Vitest-111212?style=for-the-badge&logo=vitest&logoColor=00FF74)
+![Static Badge](https://img.shields.io/badge/Testing_Library-111212?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Static Badge](https://img.shields.io/badge/ESLint-111212?style=for-the-badge&logo=eslint&logoColor=4B32C3)
+![Static Badge](https://img.shields.io/badge/Prettier-111212?style=for-the-badge&logo=prettier&logoColor=F7B93E)
+![Static Badge](https://img.shields.io/badge/Husky-111212?style=for-the-badge&logo=husky&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Vercel-111212?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/AWS_Amplify-111212?style=for-the-badge&logo=awsamplify&logoColor=FF9900)
+![Static Badge](https://img.shields.io/badge/Azure-111212?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonwebservices&logoColor=FF9900&style=for-the-badge" height="24" alt="amazonwebservices logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Microsoft Azure-0078D4?logo=microsoftazure&logoColor=white&style=for-the-badge" height="24" alt="azure logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Google Cloud-4285F4?logo=googlecloud&logoColor=white&style=for-the-badge" height="24" alt="googlecloud logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black&style=for-the-badge" height="24" alt="firebase logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white&style=for-the-badge" height="24" alt="heroku logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/Figma-111212?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Static Badge](https://img.shields.io/badge/Adobe_Creative_Suite-111212?style=for-the-badge&logo=adobecreativecloud&logoColor=DA1F26)
+![Static Badge](https://img.shields.io/badge/Canva-111212?style=for-the-badge&logo=canva&logoColor=00C4CC)
 
 ###
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="24" alt="figma logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Canva-00C4CC?logo=canva&logoColor=black&style=for-the-badge" height="24" alt="canva logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?logo=adobephotoshop&logoColor=black&style=for-the-badge" height="24" alt="photoshop logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Adobe Illustrator-FF9A00?logo=adobeillustrator&logoColor=black&style=for-the-badge" height="24" alt="illustrator logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Adobe After Effects-9999FF?logo=adobeaftereffects&logoColor=black&style=for-the-badge" height="24" alt="aftereffects logo"  />
-  <img width="6" />
-  <img src="https://img.shields.io/badge/Adobe Premiere Pro-9999FF?logo=adobepremierepro&logoColor=black&style=for-the-badge" height="24" alt="premierepro logo"  />
-</div>
+![Static Badge](https://img.shields.io/badge/ChatGPT-111212?style=for-the-badge&logo=openai&logoColor=FFFFFF)
+![Static Badge](https://img.shields.io/badge/Gemini-111212?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
+![Static Badge](https://img.shields.io/badge/v0-111212?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
 
 ###
 
@@ -109,14 +89,10 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/nmrisrl11/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="linkedin logo"  />
-  </a>
-  <a href="https://t.me/merzx011" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="telegram logo"  />
-  </a>
-  <a href="https://www.instagram.com/nmrisrl/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="24" alt="instagram logo"  />
-  </a>
-</div>
+<a href="https://www.linkedin.com/in/nmrisrl11/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-111212?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="24" alt="linkedin logo" />
+</a>
+
+<a href="https://t.me/merzx011" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-111212?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="24" alt="telegram logo" />
+</a>
