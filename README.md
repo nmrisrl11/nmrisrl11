@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">My name is Nomer and I'm a Front-end Developer from Philippines <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /></h3>
+<h3 align="left">My name is Nomer and I'm a Senior Front-end Developer from Philippines <img src="https://cdn-icons-png.flaticon.com/128/197/197561.png" width="17" /></h3>
 
 ###
 
