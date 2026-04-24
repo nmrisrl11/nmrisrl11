@@ -64,6 +64,7 @@
 ![Static Badge](https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
 ![Static Badge](https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&logo=vitest&logoColor=00FF74)
 ![Static Badge](https://img.shields.io/badge/Testing_Library-0d1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
+![Static Badge](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=0078D4)
 ![Static Badge](https://img.shields.io/badge/ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=4B32C3)
 ![Static Badge](https://img.shields.io/badge/Prettier-0d1117?style=for-the-badge&logo=prettier&logoColor=F7B93E)
 ![Static Badge](https://img.shields.io/badge/Husky-0d1117?style=for-the-badge&logo=husky&logoColor=FFFFFF)
