@@ -21,79 +21,60 @@
 <h2 align="left">Tech Stack & Skills</h2>
 
 ###
-
-![Static Badge](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/React_Native-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Static Badge](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
-![Static Badge](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Static Badge](https://img.shields.io/badge/jQuery-0d1117?style=for-the-badge&logo=jquery&logoColor=0769AD)
-![Static Badge](https://img.shields.io/badge/Tailwind_CSS-0d1117?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+![badge](https://shieldcn.dev/badge/React.svg?font=space-grotesk&logo=react)
+![badge](https://shieldcn.dev/badge/Next.js.svg?font=space-grotesk&logo=nextdotjs)
+![badge](https://shieldcn.dev/badge/TypeScript.svg?font=space-grotesk&logo=typescript)
+![badge](https://shieldcn.dev/badge/JavaScript.svg?font=space-grotesk&logo=javascript)
+![badge](https://shieldcn.dev/badge/React%20Native.svg?font=space-grotesk&logo=react)
+![badge](https://shieldcn.dev/badge/Node.js.svg?font=space-grotesk&logo=nodedotjs)
 
 ###
-
-![Static Badge](https://img.shields.io/badge/shadcn/ui-0d1117?style=for-the-badge&logo=shadcnui&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Mantine-0d1117?style=for-the-badge&logo=mantine&logoColor=339AF0)
-![Static Badge](https://img.shields.io/badge/Material_UI-0d1117?style=for-the-badge&logo=mui&logoColor=007FFF)
-![Static Badge](https://img.shields.io/badge/Flowbite_React-0d1117?style=for-the-badge&logo=flowbite&logoColor=3B82F6)
-![Static Badge](https://img.shields.io/badge/TanStack-0d1117?style=for-the-badge&logo=tanstack&logoColor=FF4154)
-![Static Badge](https://img.shields.io/badge/SWR-0d1117?style=for-the-badge&logo=swr&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Redux_Toolkit-0d1117?style=for-the-badge&logo=redux&logoColor=764ABC)
-![Static Badge](https://img.shields.io/badge/Zustand-0d1117?style=for-the-badge&logo=zustand&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Zod-0d1117?style=for-the-badge&logo=zod&logoColor=3E67B1)
-![Static Badge](https://img.shields.io/badge/NextAuth.js-0d1117?style=for-the-badge&logo=nextauth&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/React_Hook_Form-0d1117?style=for-the-badge&logo=reacthookform&logoColor=EC5990)
+![badge](https://shieldcn.dev/badge/Tailwind%20CSS.svg?font=space-grotesk&logo=tailwindcss)
+![badge](https://shieldcn.dev/badge/shadcn%2Fui.svg?font=space-grotesk&logo=shadcnui)
+![badge](https://shieldcn.dev/badge/Mantine.svg?font=space-grotesk&logo=mantine)
+![badge](https://shieldcn.dev/badge/Material%20UI.svg?font=space-grotesk&logo=mui)
+![badge](https://shieldcn.dev/badge/Flowbite%20React.svg?font=space-grotesk&logo=flowbite)
 
 ###
-
-![Static Badge](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=nodedotjs&logoColor=339933)
-![Static Badge](https://img.shields.io/badge/Express.js-0d1117?style=for-the-badge&logo=express&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/PHP-0d1117?style=for-the-badge&logo=php&logoColor=777BB4)
-![Static Badge](https://img.shields.io/badge/CodeIgniter_3-0d1117?style=for-the-badge&logo=codeigniter&logoColor=EF4223)
-![Static Badge](https://img.shields.io/badge/MySQL-0d1117?style=for-the-badge&logo=mysql&logoColor=4479A1)
-![Static Badge](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=databricks&logoColor=FF3621)
-![Static Badge](https://img.shields.io/badge/PostgreSQL-0d1117?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![Static Badge](https://img.shields.io/badge/Prisma-0d1117?style=for-the-badge&logo=prisma&logoColor=2D3748)
-![Static Badge](https://img.shields.io/badge/Appwrite-0d1117?style=for-the-badge&logo=appwrite&logoColor=FD366E)
+![badge](https://shieldcn.dev/badge/TanStack.svg?font=space-grotesk&logo=tanstack)
+![badge](https://shieldcn.dev/badge/Zod.svg?font=space-grotesk&logo=zod)
+![badge](https://shieldcn.dev/badge/React%20Hook%20Form.svg?font=space-grotesk&logo=reacthookform)
+![badge](https://shieldcn.dev/badge/Zustand.svg?font=space-grotesk&logo=zustand)
+![badge](https://shieldcn.dev/badge/Redux%20Toolkit.svg?font=space-grotesk&logo=redux)
+![badge](https://shieldcn.dev/badge/SWR.svg?font=space-grotesk&logo=swr)
+![badge](https://shieldcn.dev/badge/nuqs.svg?font=space-grotesk)
 
 ###
-
-![Static Badge](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git&logoColor=F05032)
-![Static Badge](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/GitHub_Actions-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Static Badge](https://img.shields.io/badge/CI/CD-0d1117?style=for-the-badge&logo=githubactions&logoColor=2088FF)
-![Static Badge](https://img.shields.io/badge/Vitest-0d1117?style=for-the-badge&logo=vitest&logoColor=00FF74)
-![Static Badge](https://img.shields.io/badge/Testing_Library-0d1117?style=for-the-badge&logo=testinglibrary&logoColor=E33332)
-![Static Badge](https://img.shields.io/badge/Playwright-0d1117?style=for-the-badge&logo=playwright&logoColor=0078D4)
-![Static Badge](https://img.shields.io/badge/ESLint-0d1117?style=for-the-badge&logo=eslint&logoColor=4B32C3)
-![Static Badge](https://img.shields.io/badge/Prettier-0d1117?style=for-the-badge&logo=prettier&logoColor=F7B93E)
-![Static Badge](https://img.shields.io/badge/Husky-0d1117?style=for-the-badge&logo=husky&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Vercel-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/AWS_Amplify-0d1117?style=for-the-badge&logo=awsamplify&logoColor=FF9900)
-![Static Badge](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge&logo=microsoftazure&logoColor=0078D4)
+![badge](https://shieldcn.dev/badge/PostgreSQL.svg?font=space-grotesk&logo=postgresql)
+![badge](https://shieldcn.dev/badge/MySQL.svg?font=space-grotesk&logo=mysql)
+![badge](https://shieldcn.dev/badge/SQL.svg?font=space-grotesk)
+![badge](https://shieldcn.dev/badge/Prisma.svg?font=space-grotesk&logo=prisma)
+![badge](https://shieldcn.dev/badge/Drizzle.svg?font=space-grotesk&logo=drizzle)
+![badge](https://shieldcn.dev/badge/NextAuth.js.svg?font=space-grotesk&logo=authjs)
+![badge](https://shieldcn.dev/badge/Appwrite.svg?font=space-grotesk&logo=appwrite)
+![badge](https://shieldcn.dev/badge/Express.js.svg?font=space-grotesk&logo=express)
+![badge](https://shieldcn.dev/badge/PHP.svg?font=space-grotesk&logo=php)
+![badge](https://shieldcn.dev/badge/CodeIgniter%203.svg?font=space-grotesk&logo=codeigniter)
 
 ###
-
-![Static Badge](https://img.shields.io/badge/Figma-0d1117?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Static Badge](https://img.shields.io/badge/Adobe_Creative_Suite-0d1117?style=for-the-badge&logo=adobecreativecloud&logoColor=DA1F26)
-![Static Badge](https://img.shields.io/badge/Canva-0d1117?style=for-the-badge&logo=canva&logoColor=00C4CC)
+![badge](https://shieldcn.dev/badge/Vitest.svg?font=space-grotesk&logo=vitest)
+![badge](https://shieldcn.dev/badge/Testing%20Library.svg?font=space-grotesk&logo=testinglibrary)
+![badge](https://shieldcn.dev/badge/Playwright.svg?font=space-grotesk&logo=playwright)
+![badge](https://shieldcn.dev/badge/Biome.svg?font=space-grotesk&logo=biome)
+![badge](https://shieldcn.dev/badge/ESLint.svg?font=space-grotesk&logo=eslint)
+![badge](https://shieldcn.dev/badge/Prettier.svg?font=space-grotesk&logo=prettier)
+![badge](https://shieldcn.dev/badge/Husky.svg?font=space-grotesk)
+![badge](https://shieldcn.dev/badge/Git.svg?font=space-grotesk&logo=git)
+![badge](https://shieldcn.dev/badge/GitHub.svg?font=space-grotesk&logo=github)
+![badge](https://shieldcn.dev/badge/CI%2FCD.svg?font=space-grotesk)
+![badge](https://shieldcn.dev/badge/GitHub%20Actions.svg?font=space-grotesk&logo=githubactions)
+![badge](https://shieldcn.dev/badge/Vercel.svg?font=space-grotesk&logo=vercel)
+![badge](https://shieldcn.dev/badge/AWS%20Amplify.svg?font=space-grotesk&logo=awsamplify)
+![badge](https://shieldcn.dev/badge/Azure.svg?font=space-grotesk&logo=microsoftazure)
 
 ###
-
-![Static Badge](https://img.shields.io/badge/ChatGPT-0d1117?style=for-the-badge&logo=openai&logoColor=FFFFFF)
-![Static Badge](https://img.shields.io/badge/Gemini-0d1117?style=for-the-badge&logo=googlegemini&logoColor=8E75B2)
-![Static Badge](https://img.shields.io/badge/v0-0d1117?style=for-the-badge&logo=vercel&logoColor=FFFFFF)
-
-###
-
-<h2 align="left">Let's Connect</h2>
+![badge](https://shieldcn.dev/badge/ChatGPT.svg?font=space-grotesk&logo=ri%3ABsOpenai)
+![badge](https://shieldcn.dev/badge/Gemini.svg?font=space-grotesk&logo=googlegemini)
+![badge](https://shieldcn.dev/badge/v0.svg?font=space-grotesk&logo=v0)
 
 ###
-
-<a href="https://www.linkedin.com/in/nmrisrl11/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=0077B5" height="24" alt="linkedin logo" />
-</a>
-
-<a href="https://t.me/merzx011" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-0d1117?style=for-the-badge&logo=telegram&logoColor=2CA5E0" height="24" alt="telegram logo" />
-</a>
