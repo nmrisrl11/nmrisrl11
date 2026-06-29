@@ -60,6 +60,8 @@
 ![badge](https://shieldcn.dev/badge/Vitest.svg?font=space-grotesk&logo=vitest)
 ![badge](https://shieldcn.dev/badge/Testing%20Library.svg?font=space-grotesk&logo=testinglibrary)
 ![badge](https://shieldcn.dev/badge/Playwright.svg?font=space-grotesk&logo=playwright)
+![badge](https://shieldcn.dev/badge/Sentry.svg?font=space-grotesk&logo=sentry)
+![badge](https://shieldcn.dev/badge/PostHog.svg?font=space-grotesk&logo=posthog)
 ![badge](https://shieldcn.dev/badge/Biome.svg?font=space-grotesk&logo=biome)
 ![badge](https://shieldcn.dev/badge/ESLint.svg?font=space-grotesk&logo=eslint)
 ![badge](https://shieldcn.dev/badge/Prettier.svg?font=space-grotesk&logo=prettier)
