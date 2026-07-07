@@ -25,8 +25,9 @@
 ![badge](https://shieldcn.dev/badge/Next.js.svg?font=space-grotesk&logo=nextdotjs)
 ![badge](https://shieldcn.dev/badge/TypeScript.svg?font=space-grotesk&logo=typescript)
 ![badge](https://shieldcn.dev/badge/JavaScript.svg?font=space-grotesk&logo=javascript)
-![badge](https://shieldcn.dev/badge/React%20Native.svg?font=space-grotesk&logo=react)
 ![badge](https://shieldcn.dev/badge/Node.js.svg?font=space-grotesk&logo=nodedotjs)
+![badge](https://shieldcn.dev/badge/NestJS.svg?font=space-grotesk&logo=nestjs)
+![badge](https://shieldcn.dev/badge/React%20Native.svg?font=space-grotesk&logo=react)
 
 ###
 ![badge](https://shieldcn.dev/badge/Tailwind%20CSS.svg?font=space-grotesk&logo=tailwindcss)
@@ -37,22 +38,23 @@
 
 ###
 ![badge](https://shieldcn.dev/badge/TanStack.svg?font=space-grotesk&logo=tanstack)
-![badge](https://shieldcn.dev/badge/Zod.svg?font=space-grotesk&logo=zod)
-![badge](https://shieldcn.dev/badge/React%20Hook%20Form.svg?font=space-grotesk&logo=reacthookform)
 ![badge](https://shieldcn.dev/badge/Zustand.svg?font=space-grotesk&logo=zustand)
 ![badge](https://shieldcn.dev/badge/Redux%20Toolkit.svg?font=space-grotesk&logo=redux)
+![badge](https://shieldcn.dev/badge/Zod.svg?font=space-grotesk&logo=zod)
+![badge](https://shieldcn.dev/badge/React%20Hook%20Form.svg?font=space-grotesk&logo=reacthookform)
 ![badge](https://shieldcn.dev/badge/SWR.svg?font=space-grotesk&logo=swr)
 ![badge](https://shieldcn.dev/badge/nuqs.svg?font=space-grotesk)
 
 ###
 ![badge](https://shieldcn.dev/badge/PostgreSQL.svg?font=space-grotesk&logo=postgresql)
 ![badge](https://shieldcn.dev/badge/MySQL.svg?font=space-grotesk&logo=mysql)
-![badge](https://shieldcn.dev/badge/SQL.svg?font=space-grotesk)
 ![badge](https://shieldcn.dev/badge/Prisma.svg?font=space-grotesk&logo=prisma)
 ![badge](https://shieldcn.dev/badge/Drizzle.svg?font=space-grotesk&logo=drizzle)
+![badge](https://shieldcn.dev/badge/Redis.svg?font=space-grotesk&logo=redis)
+![badge](https://shieldcn.dev/badge/Upstash.svg?font=space-grotesk&logo=upstash)
+![badge](https://shieldcn.dev/badge/Express.js.svg?font=space-grotesk&logo=express)
 ![badge](https://shieldcn.dev/badge/NextAuth.js.svg?font=space-grotesk&logo=authjs)
 ![badge](https://shieldcn.dev/badge/Appwrite.svg?font=space-grotesk&logo=appwrite)
-![badge](https://shieldcn.dev/badge/Express.js.svg?font=space-grotesk&logo=express)
 ![badge](https://shieldcn.dev/badge/PHP.svg?font=space-grotesk&logo=php)
 ![badge](https://shieldcn.dev/badge/CodeIgniter%203.svg?font=space-grotesk&logo=codeigniter)
 
@@ -60,23 +62,27 @@
 ![badge](https://shieldcn.dev/badge/Vitest.svg?font=space-grotesk&logo=vitest)
 ![badge](https://shieldcn.dev/badge/Testing%20Library.svg?font=space-grotesk&logo=testinglibrary)
 ![badge](https://shieldcn.dev/badge/Playwright.svg?font=space-grotesk&logo=playwright)
-![badge](https://shieldcn.dev/badge/Sentry.svg?font=space-grotesk&logo=sentry)
-![badge](https://shieldcn.dev/badge/PostHog.svg?font=space-grotesk&logo=posthog)
-![badge](https://shieldcn.dev/badge/Biome.svg?font=space-grotesk&logo=biome)
 ![badge](https://shieldcn.dev/badge/ESLint.svg?font=space-grotesk&logo=eslint)
 ![badge](https://shieldcn.dev/badge/Prettier.svg?font=space-grotesk&logo=prettier)
+![badge](https://shieldcn.dev/badge/Biome.svg?font=space-grotesk&logo=biome)
 ![badge](https://shieldcn.dev/badge/Husky.svg?font=space-grotesk)
-![badge](https://shieldcn.dev/badge/Git.svg?font=space-grotesk&logo=git)
-![badge](https://shieldcn.dev/badge/GitHub.svg?font=space-grotesk&logo=github)
-![badge](https://shieldcn.dev/badge/CI%2FCD.svg?font=space-grotesk)
-![badge](https://shieldcn.dev/badge/GitHub%20Actions.svg?font=space-grotesk&logo=githubactions)
+![badge](https://shieldcn.dev/badge/Greptile.svg?font=space-grotesk)
+![badge](https://shieldcn.dev/badge/CodeRabbit.svg?font=space-grotesk&logo=coderabbit)
+
+###
+![badge](https://shieldcn.dev/badge/Docker.svg?font=space-grotesk&logo=docker)
 ![badge](https://shieldcn.dev/badge/Vercel.svg?font=space-grotesk&logo=vercel)
 ![badge](https://shieldcn.dev/badge/AWS%20Amplify.svg?font=space-grotesk&logo=awsamplify)
 ![badge](https://shieldcn.dev/badge/Azure.svg?font=space-grotesk&logo=microsoftazure)
+![badge](https://shieldcn.dev/badge/Git.svg?font=space-grotesk&logo=git)
+![badge](https://shieldcn.dev/badge/GitHub.svg?font=space-grotesk&logo=github)
+![badge](https://shieldcn.dev/badge/GitHub%20Actions.svg?font=space-grotesk&logo=githubactions)
+
+###
+![badge](https://shieldcn.dev/badge/Sentry.svg?font=space-grotesk&logo=sentry)
+![badge](https://shieldcn.dev/badge/PostHog.svg?font=space-grotesk&logo=posthog)
 
 ###
 ![badge](https://shieldcn.dev/badge/ChatGPT.svg?font=space-grotesk&logo=ri%3ABsOpenai)
 ![badge](https://shieldcn.dev/badge/Gemini.svg?font=space-grotesk&logo=googlegemini)
 ![badge](https://shieldcn.dev/badge/v0.svg?font=space-grotesk&logo=v0)
-
-###
